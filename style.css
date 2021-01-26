@@ -9,6 +9,10 @@ body{
     padding:30px;
     height:100%
 }
+.clicked{
+    
+    border: 5px solid gray;
+}
 .canvas{
     width:500px;
     height:500px;
